@@ -1,1 +1,1 @@
-main.py
+heavens miner + autoredeemer.exe
